@@ -1,0 +1,11 @@
+<RCC/>
+Instruction for the Duck Runner!
+
+	Hi player, my name is Runner, I am a duck. I have been traveling for a while and
+I am worried about my egg. Please help me get to my egg.
+
+Control: W, A , S, D for four directional movement.
+Goal: get to the egg but don't let eagle catch me!
+Rule: I am meat so I cannot go through walls. However, I can sneak into a hole for
+	fast transportation. I have three brothers, if I die, they will continue with
+	my mission, our mission. Protect our egg!

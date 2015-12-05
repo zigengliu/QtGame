@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>duck.jpg</file>
+        <file>egg.jpg</file>
+        <file>wall.jpg</file>
+        <file>grass.jpg</file>
+        <file>hole.jpg</file>
+        <file>hawk.jpg</file>
+        <file>back2.jpg</file>
+        <file>back3.jpg</file>
+        <file>back1.jpg</file>
+    </qresource>
+</RCC>
